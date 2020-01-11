@@ -1,0 +1,22 @@
+{
+  "workbench.colorCustomizations": {
+    "[Palenight Operator]": {
+      "editor.background": "#011627",
+      "sideBar.background": "#011627",
+      "sideBar.foreground": "#9ea9e2",
+      "terminal.background": "#011627",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "[Remedy - Tilted]": {
+      "editor.background": "#272626",
+      "sideBar.background": "#272626",
+      "terminal.background": "#272626",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "activityBar.background": "#233121",
+    "titleBar.activeBackground": "#31452E",
+    "titleBar.activeForeground": "#FAFCFA"
+  }
+}
